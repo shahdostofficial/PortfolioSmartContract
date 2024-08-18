@@ -21,7 +21,7 @@ contract MyPortfolio{
     // 0x95e9d25E396F7e611B7E8371ffa6e42418e9be08
 
     string public  ImageLink = "QmNdsSq86cQZHAheQjATWdfdLmDpsLwLm7LofGepe4QVHS";
-    string public discription = "I Have 3 months experience";
+    string public discription = "I Have 1.5 years of experience in blockchain";
     string public ResumeLink= "QmTtnuxuX33CypqgzQtP8VvVNbvnenUWfihMd7CnpjTnLu";
 
     uint projectCount;
